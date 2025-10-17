@@ -11,7 +11,7 @@ public class EscapeSequence {
             System.out.println(" dj sounds \\loud");// to insert backslash character
 
         }
-    
+
 
 
 
