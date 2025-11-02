@@ -12,5 +12,6 @@ public class PerimeterOfaRectangle {
         System.out.println("Length of AD");
         int ad=sc.nextInt();
         System.out.println("Perimeter of rectagle ABCD is "+(ab+bc+cd+ad));
+
     }
 }
